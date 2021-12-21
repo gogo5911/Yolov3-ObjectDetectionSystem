@@ -14,7 +14,7 @@
 
 ### Quick start for editing the source code
 
-* 시스템은 Window 10환경에서 만들어졌으며 테스트됬습니다. 다른 환경에서는 테스트 해보지 않았습니다.
+* 시스템은 Window 10환경에서 만들어졌으며 테스트됐습니다. 다른 환경에서는 테스트 해보지 않았습니다.
 * openframeworks 디렉토리 app/myApp폴더에 압축을 풀어준다.
 * ofxCv 애드온을 가져온다. 애드온은 addons 하위 디렉토리에 설치해합니다.
 
